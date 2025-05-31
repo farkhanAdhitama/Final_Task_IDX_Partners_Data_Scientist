@@ -507,6 +507,8 @@ print("X_test shape:", X_test.shape)
 print("y_train shape:", y_train.shape)
 print("y_test shape:", y_test.shape)
 
+
+
 """### Resampling Dataset"""
 
 # Perbandingan jumlah credit risk good dan bad
